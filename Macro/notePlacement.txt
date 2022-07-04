@@ -1,0 +1,2 @@
+App.Placement(App.Vector(Traslazione (x,y,z)), App.Rotation(App.Vector(angoli di eulero, x,y,z),Asse di rotazione con angolo), App.Vector(centro x,y,z))
+
